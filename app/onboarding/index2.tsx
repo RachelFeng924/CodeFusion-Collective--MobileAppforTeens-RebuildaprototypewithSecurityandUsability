@@ -11,7 +11,7 @@ const Onboarding2 = () => {
       <Text style={styles.description}>The app is disguised as a game to offer a layer of confidentiality and protection</Text>
       <Link style={{ width: '100%', justifyContent: 'center', alignItems: 'center' }} href="/onboarding/index3" asChild>
         <Pressable>
-          <View style={styles.button}><Text style={styles.buttontext}>How it Works </Text></View>
+          <View style={styles.button}><Text style={styles.buttontext}>How to Login </Text></View>
         </Pressable>
       </Link>
     </View>

@@ -11,7 +11,7 @@ const Onboarding3 = () => {
       <Text style={styles.description}>Tapping any one square three times in a row reveal the real application</Text>
       <Link style={{ width: '100%', justifyContent: 'center', alignItems: 'center' }} href="/lockscreen" asChild>
         <Pressable>
-          <View style={styles.button}><Text style={styles.buttontext}>How it Works </Text></View>
+          <View style={styles.button}><Text style={styles.buttontext}>Enter</Text></View>
         </Pressable>
       </Link>
 
